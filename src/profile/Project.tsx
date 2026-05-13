@@ -1,5 +1,5 @@
-import Python from  "./py.png";
-import MySQL from  "./Msql.png";
+import Python from "./py.png";
+import MySQL from "./Msql.png";
 import Front from "./BS.png";
 import Frontend from "./Port.png";
 import "./Menu.css"
