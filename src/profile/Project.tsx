@@ -1,4 +1,4 @@
-import Python from "./src/profile/Python.png"
+import Python from "./Python.png"
 import MySQL from "./Msql.png";
 import Front from "./BS.png";
 import Frontend from "./Port.png";
