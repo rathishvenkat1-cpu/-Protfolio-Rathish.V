@@ -1,4 +1,4 @@
-import Python from "./Py.png";
+// import Python from "./Py.png";
 import MySQL from "./Msql.png";
 import Front from "./BS.png";
 import Frontend from "./Port.png";
@@ -19,7 +19,7 @@ export default function Project(){
           <li>Showcased skills in Python, speech processing, and API integration.</li>
         </ul>
         </div>
-         <img src={Python} alt="Python" className="info-img1"/>
+         {/* <img src={Python} alt="Python" className="info-img1"/> */}
          </div>
         <hr/>
        
