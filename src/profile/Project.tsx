@@ -27,10 +27,14 @@ export default function Project(){
           <div className="div-no">
            <h2 className="div-h3">Ecommerce Online Shopping (MYSQL)</h2>
         <ul>
-          <li>Designed and developed a structured MySQL database for an e-commerce platform covering customers, orders, products, payments, and shipping.</li>
-          <li>Implemented SQL queries, joins, subqueries, stored procedures, and triggers to analyze sales, customer behavior, and inventory.</li>
-          <li>Automated loyalty points calculation, stock updates, and data validation to ensure data accuracy and integrity.</li>
-          <li>Performed business insights analysis such as top customers, sales categorization, average order analysis, and payment-wise order distribution.</li>
+          <li>Designed and developed a structured MySQL database for an e-commerce</li>
+            <li> platform covering customers, orders, products, payments, and shipping.</li>
+          <li>Implemented SQL queries, joins, subqueries, stored procedures</li> 
+            <li>Triggers to analyze sales, customer behavior, and inventory.</li>
+          <li>Automated loyalty points calculation, stock updates</li>
+            <li>data validation to ensure data accuracy and integrity.</li>
+          <li>Performed business insights analysis such as top customers</li> 
+            <li>sales categorization, average order analysis, and payment-wise order distribution.</li>
         </ul>
         </div>
          <img src={MySQL} alt="MySQL" className="info-img1"/>
@@ -41,9 +45,9 @@ export default function Project(){
          <div className="div-no">
          <h2 className="div-h3">Online Bookstore (Frontend)</h2>
        <ul>
-         <li>Developed a responsive online bookstore website using HTML, CSS, and JavaScript</li>
-         <li>Designed user-friendly pages including home, book listing, and product details</li>
-         <li>Implemented features like search, navigation, and interactive UI elements</li>
+         <li>Developed a responsive online bookstore website using HTML,CSS and JavaScript</li>
+         <li>Designed user-friendly pages including home,book listing and product details</li>
+         <li>Implemented features like search,navigation and interactive UI elements</li>
          <li>Ensured mobile-friendly design for better user experience across devices</li>
          <li>Improved website performance and layout using modern frontend techniques</li>
        </ul>

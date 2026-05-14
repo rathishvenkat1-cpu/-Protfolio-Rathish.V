@@ -10,15 +10,16 @@ export default function info() {
             I'm a Full Stack Developer passionate about building end-to-end web
             solutions.
           </p>
-
           <p className="div-p1">
             I work with frontend technologies like React, HTML, CSS, and
-            JavaScript, along with backend tools such as Python, Django, and
+            JavaScript,</p>
+            <p> along with backend tools such as Python, Django, and
             MySQL,SQL.
           </p>
 
           <p className="div-p1">
-            I enjoy solving real-world problems through efficient, scalable, and
+            I enjoy solving real-world problems through efficient, 
+            </p><p>scalable, and
             user-friendly applications.
           </p>
         </div>

@@ -4,6 +4,7 @@
 }
 .div-menu{
    display: flex;
+   flex-wrap: wrap;
    padding-top: 5px;
    gap: 50px;
 
@@ -18,12 +19,14 @@
 
 .div-pot{
    display: flex;
+   flex-wrap: wrap;
    justify-content: space-between;
    padding:20px;
    border: 1px solid rgb(75, 74, 74);
    border-left: none;
    border-top: none;
    border-right: none;
+   position: sticky;
 
 }
 .div-port{
@@ -32,11 +35,14 @@
     color: sandybrown;
 }
 .info-img{
-    width: 700px;
-    height: 450px;    
+    width:50%;
+    height: auto;   
+    padding-top: 60px; 
 }
+
 .div-info{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 .div-full{
@@ -62,10 +68,17 @@
     padding-top: 10px;
 }
 .info-img1{
-    width: 500px;
-    height: 300px; 
-    padding-left: 30px;   
+    width:35%;
+    height: auto;   
+    padding: 30px 0px 30px 20px;  
 }
+.info-img2{
+    width:40%;
+    height: auto;   
+    margin-bottom: 50px;
+}
+
+
 .div-About{
     display: flex;
     padding:20px 0px 0px 20px;
@@ -88,6 +101,7 @@
 }
 .div-i{
     display: flex;
+    flex-wrap: wrap;
     font-style: initial;
 }
 .div-p3{
@@ -95,6 +109,7 @@
 }
 .div-box{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     padding-top: 15px;
 }
@@ -107,29 +122,24 @@
 }
 .div-box1{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     padding: 30px 150px 0px 0px;
 }
 .div-box2{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     padding-top: 5px;
-}
-.div-box3{
-    padding:20px 0px 0px 78vh ;
 }
 
 .skill{
     padding-left: 20vh;
 }
-.info-img1{
-    width: 500px;
-    height: 300px; 
-    padding:10px 20px 30px 0px ;   
-}
+
 .div-info1{
     display: flex;
-    justify-content: space-between;
+    flex-wrap: wrap;
     align-items: center;
 }
 .div-no{

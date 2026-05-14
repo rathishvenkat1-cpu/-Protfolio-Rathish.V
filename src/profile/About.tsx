@@ -24,7 +24,7 @@ real-world problems.</p>
 improving my design skills.</p>
 </div>
 </div>
-<img src={Image} alt="Rathish" className="info-img1" />
+<img src={Image} alt="Rathish" className="info-img2" />
 </div>
  <h1 className="div-h1">My Resume</h1> 
  <a href="https://drive.google.com/file/d/1Ii7sgp2B2K-G2OzbJ0Yl4Ubt1Id0S_ve/view?usp=drivesdk" download style={{paddingBottom:"20px"}}>

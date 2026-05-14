@@ -95,7 +95,7 @@ h2 {
 p {
   margin: 0;
 }
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 769px) {
   .container {
     flex-direction: column;
    

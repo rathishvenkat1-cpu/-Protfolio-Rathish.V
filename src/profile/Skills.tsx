@@ -14,6 +14,7 @@ export default function skills() {
       <h1 className="div-h1">SKILLS</h1>
       <h2 className="skill">Languages: </h2>
       <div className="div-box">
+        <div>
         <div className="my-box">
           <div className="div-i">
             <FontAwesomeIcon icon={faPython} />
@@ -26,6 +27,8 @@ export default function skills() {
             </p>
           </div>
         </div>
+        </div>
+        <div>
         <div className="my-box">
           <div className="div-i">
             <FontAwesomeIcon icon={faJs} />
@@ -36,6 +39,8 @@ export default function skills() {
             <p className="div-p4"> Data Structures(Arrays, Strings, Basics)</p>
           </div>
         </div>
+        </div>
+        <div>
         <div className="my-box">
           <div className="div-i">
             <FontAwesomeIcon icon={faDatabase} />
@@ -47,12 +52,10 @@ export default function skills() {
           </div>
         </div>
       </div>
-      <div className="div-box1">
-        <h2>DataBase: </h2>
-        <h2>Frontend: </h2>
-        <h2>Backend: </h2>
       </div>
       <div className="div-box2">
+       <div>
+      <h2>DataBase: </h2>
         <div className="my-box">
           <div className="div-i">
             <FontAwesomeIcon icon={faDatabase} />
@@ -63,6 +66,9 @@ export default function skills() {
             <p className="div-p4">Data Fundamentals(joins, Normalization),</p>
           </div>
         </div>
+         </div>
+         <div>
+         <h2>Frontend: </h2>
         <div className="my-box">
           <div className="div-i">
             <FontAwesomeIcon icon={faCode} />
@@ -77,6 +83,9 @@ export default function skills() {
             <p className="div-p4">Frontend(DOM, Responsive Design),</p>
           </div>
         </div>
+         </div>
+        <div>
+        <h2>Backend: </h2>
         <div className="my-box">
           <div className="div-i">
             <FontAwesomeIcon icon={faServer} />
@@ -87,9 +96,8 @@ export default function skills() {
             <p className="div-p4">Backend(Django MVC)</p>
           </div>
         </div>
-      </div>
-      
-      <div className="div-box3">
+        </div>
+      <div >
         <h2>Tools</h2>
       <div className="my-box">
         <div className="div-1">
@@ -102,6 +110,7 @@ export default function skills() {
           </p>
         </div>
       </div>
+        </div>
         </div>
     </>
   );
